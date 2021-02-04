@@ -1,0 +1,55 @@
+{
+    "tacos":[
+    {
+        
+        "id":0,
+        "name":"Taco al pastor",
+        "carne":"cordero",
+        "ingredientes":["piña", "cebolla" ,"cilantro",  "salsa"]
+    
+    },
+    {
+        
+        "id":1,
+        "name":"Taco de carnitas",
+        "carne":"costilla",
+        "ingredientes":["chile habanero ", "pepino",  "salsa"]
+    
+    },
+    {
+        
+        "id":2,
+        "name":"Tacos de barbacoa",
+        "carne":"borrego",
+        "ingredientes":["pencas de maguey","consome"]
+    
+    },
+
+    {
+        
+        "id":3,
+        "name":"Tacos de cochinita",
+        "carne":"cerdo",
+        "ingredientes":["adobo","achiote","naranja agria","hojas de platano"]
+    
+    },
+    {
+        
+        "id":4,
+        "name":"Tacos de asada",
+        "carne":"res",
+        "ingredientes":["tortilla de maíz","consome"]
+    
+    },
+    {
+        
+        "id":5,
+        "name":"Tacos de canasta",
+        "carne":"cordero",
+        "ingredientes":["papa"," frijol","chicharron"]
+    
+    }
+    
+    
+]
+}
